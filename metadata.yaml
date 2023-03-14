@@ -1,5 +1,8 @@
 _repo: The-history-of-steam-navigation_70176
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70176-h/images/cover.jpg
 creator:
   author:
     agent_name: Kennedy, John F. (John Fitzgerald)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1666
     wikipedia: https://en.wikipedia.org/wiki/John_F._Kennedy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70176#The-history-of-steam-navigation
 gutenberg_issued: '2023-03-01'
 identifiers:
   gutenberg: '70176'
